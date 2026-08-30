@@ -1,0 +1,7 @@
+
+Name:Vidhi
+Age:21
+Goal:Ai enginner
+
+Learning:Python
+wants:Ai Enginner
