@@ -27,3 +27,5 @@ s2=pd.Series(fruit_protien)
 print(s2)
 
 print(s2[s2<1.5])
+print(s2[(s2>0.5) and (s2<1.5)])
+

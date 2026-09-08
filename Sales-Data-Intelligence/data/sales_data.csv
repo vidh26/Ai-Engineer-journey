@@ -1,0 +1,67 @@
+Order_ID,Date,Product,Category,Region,Quantity,Unit_Price,Customer
+
+1001,2026-01-03,Laptop,Electronics,West,1,55000,Aarav
+1002,2026-01-05,Keyboard,Accessories,North,2,1200,Riya
+1003,2026-01-08,Mouse,Accessories,West,3,650,Dev
+1004,2026-01-12,Monitor,Electronics,South,1,12500,Anaya
+1005,2026-01-15,Laptop Stand,Accessories,East,2,1800,Karan
+1006,2026-01-18,Headphones,Electronics,West,2,2500,Meera
+1007,2026-01-22,Webcam,Electronics,North,1,3200,Rohan
+1008,2026-01-27,Desk Lamp,Furniture,South,3,900,Isha
+1009,2026-02-02,Laptop,Electronics,West,2,55000,Arjun
+1010,2026-02-05,Keyboard,Accessories,East,4,1200,Priya
+1011,2026-02-09,Mouse,Accessories,North,5,650,Neha
+1012,2026-02-13,Monitor,Electronics,West,2,12500,Vivaan
+1013,2026-02-17,Laptop Stand,Accessories,South,3,1800,Kavya
+1014,2026-02-20,Headphones,Electronics,East,2,2500,Rahul
+1015,2026-02-24,Webcam,Electronics,West,2,3200,Simran
+1016,2026-02-27,Desk Lamp,Furniture,North,4,900,Aditya
+1017,2026-03-03,Laptop,Electronics,South,1,55000,Anika
+1018,2026-03-06,Keyboard,Accessories,West,3,1200,Raj
+1019,2026-03-10,Mouse,Accessories,East,4,650,Sneha
+1020,2026-03-14,Monitor,Electronics,North,1,12500,Yash
+1021,2026-03-18,Laptop Stand,Accessories,West,2,1800,Tanvi
+1022,2026-03-21,Headphones,Electronics,South,3,2500,Harsh
+1023,2026-03-25,Webcam,Electronics,East,1,3200,Diya
+1024,2026-03-29,Desk Lamp,Furniture,West,5,900,Manav
+1025,2026-04-02,Laptop,Electronics,North,1,55000,Avni
+1026,2026-04-05,Keyboard,Accessories,South,2,1200,Krish
+1027,2026-04-09,Mouse,Accessories,West,6,650,Mahi
+1028,2026-04-13,Monitor,Electronics,East,1,12500,Aryan
+1029,2026-04-17,Laptop Stand,Accessories,North,3,1800,Nisha
+1030,2026-04-21,Headphones,Electronics,West,2,2500,Rohit
+1031,2026-04-25,Webcam,Electronics,South,2,3200,Sakshi
+1032,2026-04-28,Desk Lamp,Furniture,East,4,900,Varun
+1033,2026-05-03,Laptop,Electronics,West,2,55000,Kiara
+1034,2026-05-06,Keyboard,Accessories,North,3,1200,Ayush
+1035,2026-05-10,Mouse,Accessories,South,5,650,Pooja
+1036,2026-05-14,Monitor,Electronics,West,2,12500,Om
+1037,2026-05-18,Laptop Stand,Accessories,East,4,1800,Shreya
+1038,2026-05-21,Headphones,Electronics,North,2,2500,Devika
+1039,2026-05-25,Webcam,Electronics,West,3,3200,Aman
+1040,2026-05-29,Desk Lamp,Furniture,South,5,900,Ritika
+1041,2026-06-02,Laptop,Electronics,East,1,55000,Vihaan
+1042,2026-06-05,Keyboard,Accessories,West,4,1200,Ira
+1043,2026-06-09,Mouse,Accessories,North,3,650,Shiv
+1044,2026-06-13,Monitor,Electronics,South,2,12500,Aditi
+1045,2026-06-17,Laptop Stand,Accessories,West,2,1800,Nakul
+1046,2026-06-21,Headphones,Electronics,East,3,2500,Radhika
+1047,2026-06-25,Webcam,Electronics,North,2,3200,Parth
+1048,2026-06-28,Desk Lamp,Furniture,West,4,900,Muskan
+1049,2026-07-02,Laptop,Electronics,West,2,55000,Siddharth
+1050,2026-07-05,Keyboard,Accessories,South,5,1200,Shanaya
+1051,2026-07-09,Mouse,Accessories,East,6,650,Dev
+1052,2026-07-13,Monitor,Electronics,West,2,12500,Riya
+1053,2026-07-17,Laptop Stand,Accessories,North,4,1800,Aarav
+1054,2026-07-21,Headphones,Electronics,South,3,2500,Meera
+1055,2026-07-25,Webcam,Electronics,West,2,3200,Rohan
+1056,2026-07-29,Desk Lamp,Furniture,East,6,900,Anaya
+1057,2026-08-02,Laptop,Electronics,North,1,55000,Karan
+1058,2026-08-05,Keyboard,Accessories,West,3,1200,Priya
+1059,2026-08-09,Mouse,Accessories,South,5,650,Neha
+1060,2026-08-13,Monitor,Electronics,East,2,12500,Vivaan
+1061,2026-08-17,Laptop Stand,Accessories,West,3,1800,Kavya
+1062,2026-08-21,Headphones,Electronics,North,4,2500,Rahul
+1063,2026-08-25,Webcam,Electronics,South,2,3200,Simran
+1064,2026-08-29,Desk Lamp,Furniture,West,5,900,Arjun
+1065,2026-08-31,Laptop,Electronics,West,2,55000,Isha
